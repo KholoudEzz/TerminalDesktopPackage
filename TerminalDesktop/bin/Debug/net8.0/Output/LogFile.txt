@@ -1,3 +1,0 @@
-2024-11-16 15:02:14 :TerminalVer16: FailedCounter from Config file :: 0
-2024-11-16 15:11:06 :TerminalVer16: Load Config file :: C:\Program Files\MisrCompany\RasheedTerminal\BillConfig.xml
-2024-11-16 15:14:42 :TerminalVer16: FailedCounter from Config file :: 0
