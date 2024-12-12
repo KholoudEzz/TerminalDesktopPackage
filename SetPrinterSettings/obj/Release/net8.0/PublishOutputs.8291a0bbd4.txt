@@ -1,5 +1,0 @@
-F:\New Terminal\SetPrinterSettings\bin\Release\net8.0\publish\SetPrinterSettings.exe
-F:\New Terminal\SetPrinterSettings\bin\Release\net8.0\publish\SetPrinterSettings.dll
-F:\New Terminal\SetPrinterSettings\bin\Release\net8.0\publish\SetPrinterSettings.deps.json
-F:\New Terminal\SetPrinterSettings\bin\Release\net8.0\publish\SetPrinterSettings.runtimeconfig.json
-F:\New Terminal\SetPrinterSettings\bin\Release\net8.0\publish\SetPrinterSettings.pdb
