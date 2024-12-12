@@ -1,5 +1,0 @@
-F:\New Terminal\SetupFolder\Tools\PrinterSettingsTool.exe
-F:\New Terminal\SetupFolder\Tools\PrinterSettingsTool.dll
-F:\New Terminal\SetupFolder\Tools\PrinterSettingsTool.deps.json
-F:\New Terminal\SetupFolder\Tools\PrinterSettingsTool.runtimeconfig.json
-F:\New Terminal\SetupFolder\Tools\PrinterSettingsTool.pdb
