@@ -61,6 +61,7 @@ namespace RashidConfiguration
             }
             else if (PhyPrinterRBtn.Checked)
             {
+                ConfigFileRW.selectedPrinter = "PhysicalPrinter";
                 ConfigFileRW.ExecutablePath = BasePath + RashidPrinterName;
                 ExecutablePathUpdate(ConfigFileRW.ExecutablePath);
             }

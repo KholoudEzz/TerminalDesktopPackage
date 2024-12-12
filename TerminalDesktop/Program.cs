@@ -670,8 +670,8 @@ namespace TerminalDesktopApp
                 {
 
                     sPrinterName = Configuration.DefaultPhyPrinter;
-
-                     GlobalVariables. LogInFile("Print xps  :: " + FileToReadOrPrint + " With :: " + sPrinterName);
+                    Console.WriteLine("Print xps  :: " + FileToReadOrPrint + " With :: " + sPrinterName);
+                    GlobalVariables. LogInFile("Print xps  :: " + FileToReadOrPrint + " With :: " + sPrinterName);
                     PrintXpsFile(FileToReadOrPrint, sPrinterName);
 
 
