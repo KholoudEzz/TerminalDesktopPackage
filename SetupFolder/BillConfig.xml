@@ -1,0 +1,86 @@
+<Configuration>
+  <LineHeight>110</LineHeight>
+  <DateTimeStartY>220</DateTimeStartY>
+  <TimeStartX>110</TimeStartX>
+  <TimeEndX>1500</TimeEndX>
+  <ProductStartY>770</ProductStartY>
+  <ProductCodeStartX>730</ProductCodeStartX>
+  <TaxNumberStartY>130</TaxNumberStartY>
+  <TaxNumberStartX>224</TaxNumberStartX>
+  <ProductCodeEndX>1030</ProductCodeEndX>
+  <ProductCodeEndX>1030</ProductCodeEndX>
+  <ProductNameStartX>0</ProductNameStartX>
+  <ProductNameEndX>750</ProductNameEndX>
+  <ProductUnitStartX>860</ProductUnitStartX>
+  <ProductUnitEndX>1030</ProductUnitEndX>
+  <ProductUnitCodeStartX>650</ProductUnitCodeStartX>
+  <ProductUnitCodeEndX>780</ProductUnitCodeEndX>
+  <ProductUnitPriceStartX>300</ProductUnitPriceStartX>
+  <ProductUnitPriceEndX>390</ProductUnitPriceEndX>
+  <ProductUnitQuantStartX>480</ProductUnitQuantStartX>
+  <ProductUnitQuantEndX>500</ProductUnitQuantEndX>
+  <ProductTotalPriceStartX>200</ProductTotalPriceStartX>
+  <ProductTotalPriceEndX>330</ProductTotalPriceEndX>
+  <ProductItemUnitStartX>780</ProductItemUnitStartX>
+  <ProductItemUnitEndX>802</ProductItemUnitEndX>
+  <StopLinePhrase>stop</StopLinePhrase>
+  <BuyerNameY>667</BuyerNameY>
+  <BuyerNameStartX>400</BuyerNameStartX>
+  <BuyerNameEndX>900</BuyerNameEndX>
+  <BuyerAddressY>705</BuyerAddressY>
+  <BuyerAddressStartX>400</BuyerAddressStartX>
+  <BuyerAddressEndX>900</BuyerAddressEndX>
+  <ProductStartPhrase>Item</ProductStartPhrase>
+  <InvoiceNumberStartY>280</InvoiceNumberStartY>
+  <InvoiceNumberEndY>320</InvoiceNumberEndY>
+  <InvoiceStartX>330</InvoiceStartX>
+  <InvoiceEndX>1330</InvoiceEndX>
+  <commercialRegisterNumY>180</commercialRegisterNumY>
+  <commercialRegisterNumX>339</commercialRegisterNumX>
+  <SalesY>330</SalesY>
+  <SalesStartX>390</SalesStartX>
+  <CashierY>430</CashierY>
+  <CashierStartX>331</CashierStartX>
+  <vatAmountY>1570</vatAmountY>
+  <vatAmountX>141</vatAmountX>
+  <discountAmountY>1510</discountAmountY>
+  <discountAmountX>141</discountAmountX>
+  <salesNameY>360</salesNameY>
+  <salesNameX>331</salesNameX>
+  <totalQtyY>1850</totalQtyY>
+  <totalQtyX>175</totalQtyX>
+  <branchNameStartY>490</branchNameStartY>
+  <branchNameEndY>530</branchNameEndY>
+  <branchNameX>331</branchNameX>
+  <STAmount>277a93455566hhnjmmjkjds5a39240d6179</STAmount>
+  <StoreId>21110</StoreId>
+  <StoreCode>277a9345-36d9-44ec-b001-5a39240d6179</StoreCode>
+  <CategoryCode>20</CategoryCode>
+  <RetailerName>شركة عملاق التوفير - شركة عملاق التوفير  - الرياض</RetailerName>
+  <POS>PointOfSale</POS>
+  <CategoryId>123</CategoryId>
+  <Category>Food Industry</Category>
+  <Logo>ShortURL</Logo>
+  <JsonFilePath>M</JsonFilePath>
+  <CR>5951128299</CR>
+  <VAT>311379769400003</VAT>
+  <NumOfQRCode>2</NumOfQRCode>
+  <Store>201 - مخزن الصالة - فرع الرياض</Store>
+  <ReturnPolicy>سياسة الاستبدال والاسترجاع والضمان
+   يشترط احضار الفاتورة عند الاستبدال أو الاسترجاع
+   وأن يكون الآصناف كحالتها عند البيع</ReturnPolicy>
+  <XMLFolder>C:\MisrCompany\Output</XMLFolder>
+  <XPSFolder>C:\MisrCompany\Output</XPSFolder>
+  <JSONFolder>C:\MisrCompany\Output</JSONFolder>
+  <FastRead>True</FastRead>
+  <RFFailedCounter>0</RFFailedCounter>
+  <DefaultPhyPrinter>
+  </DefaultPhyPrinter>
+  <selectedPrinter>
+  </selectedPrinter>
+  <RashidPrinterOutputType>XPS</RashidPrinterOutputType>
+  <PrinterOutPath>C:\MisrCompany\Output\\</PrinterOutPath>
+  <ExecutablePath>C:\Program Files\MisrCompany\RasheedTerminal\Tools\TerminalDesktop.exe</ExecutablePath>
+  <ConString>Data Source=KHOLOUDPC\SQLEXPRESS;Initial Catalog=TerminalDatabase;Integrated Security=True;TrustServerCertificate=True;</ConString>
+  <DatabaseFile>C:\MisrCompany\Database\</DatabaseFile>
+</Configuration>

@@ -1,0 +1,67 @@
+F:\Repos\PrinterSettingsTool\bin\Release\net8.0-windows\PrinterSettingsTool.exe
+F:\Repos\PrinterSettingsTool\bin\Release\net8.0-windows\PrinterSettingsTool.deps.json
+F:\Repos\PrinterSettingsTool\bin\Release\net8.0-windows\PrinterSettingsTool.runtimeconfig.json
+F:\Repos\PrinterSettingsTool\bin\Release\net8.0-windows\PrinterSettingsTool.dll
+F:\Repos\PrinterSettingsTool\bin\Release\net8.0-windows\PrinterSettingsTool.pdb
+F:\Repos\PrinterSettingsTool\obj\Release\net8.0-windows\PrinterSettingsTool.PrinterTool.resources
+F:\Repos\PrinterSettingsTool\obj\Release\net8.0-windows\PrinterSettingsTool.csproj.GenerateResource.cache
+F:\Repos\PrinterSettingsTool\obj\Release\net8.0-windows\PrinterSettingsTool.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repos\PrinterSettingsTool\obj\Release\net8.0-windows\PrinterSettingsTool.AssemblyInfoInputs.cache
+F:\Repos\PrinterSettingsTool\obj\Release\net8.0-windows\PrinterSettingsTool.AssemblyInfo.cs
+F:\Repos\PrinterSettingsTool\obj\Release\net8.0-windows\PrinterSettingsTool.csproj.CoreCompileInputs.cache
+F:\Repos\PrinterSettingsTool\obj\Release\net8.0-windows\PrinterSettingsTool.sourcelink.json
+F:\Repos\PrinterSettingsTool\obj\Release\net8.0-windows\PrinterSettingsTool.dll
+F:\Repos\PrinterSettingsTool\obj\Release\net8.0-windows\refint\PrinterSettingsTool.dll
+F:\Repos\PrinterSettingsTool\obj\Release\net8.0-windows\PrinterSettingsTool.pdb
+F:\Repos\PrinterSettingsTool\obj\Release\net8.0-windows\PrinterSettingsTool.genruntimeconfig.cache
+F:\Repos\PrinterSettingsTool\obj\Release\net8.0-windows\ref\PrinterSettingsTool.dll
+F:\New Terminal\PrinterSettingsTool\bin\Release\net8.0-windows\PrinterSettingsTool.exe
+F:\New Terminal\PrinterSettingsTool\bin\Release\net8.0-windows\PrinterSettingsTool.deps.json
+F:\New Terminal\PrinterSettingsTool\bin\Release\net8.0-windows\PrinterSettingsTool.runtimeconfig.json
+F:\New Terminal\PrinterSettingsTool\bin\Release\net8.0-windows\PrinterSettingsTool.dll
+F:\New Terminal\PrinterSettingsTool\bin\Release\net8.0-windows\PrinterSettingsTool.pdb
+F:\New Terminal\PrinterSettingsTool\obj\Release\net8.0-windows\PrinterSettingsTool.PrinterTool.resources
+F:\New Terminal\PrinterSettingsTool\obj\Release\net8.0-windows\PrinterSettingsTool.csproj.GenerateResource.cache
+F:\New Terminal\PrinterSettingsTool\obj\Release\net8.0-windows\PrinterSettingsTool.GeneratedMSBuildEditorConfig.editorconfig
+F:\New Terminal\PrinterSettingsTool\obj\Release\net8.0-windows\PrinterSettingsTool.AssemblyInfoInputs.cache
+F:\New Terminal\PrinterSettingsTool\obj\Release\net8.0-windows\PrinterSettingsTool.AssemblyInfo.cs
+F:\New Terminal\PrinterSettingsTool\obj\Release\net8.0-windows\PrinterSettingsTool.csproj.CoreCompileInputs.cache
+F:\New Terminal\PrinterSettingsTool\obj\Release\net8.0-windows\PrinterSettingsTool.sourcelink.json
+F:\New Terminal\PrinterSettingsTool\obj\Release\net8.0-windows\PrinterSettingsTool.dll
+F:\New Terminal\PrinterSettingsTool\obj\Release\net8.0-windows\refint\PrinterSettingsTool.dll
+F:\New Terminal\PrinterSettingsTool\obj\Release\net8.0-windows\PrinterSettingsTool.pdb
+F:\New Terminal\PrinterSettingsTool\obj\Release\net8.0-windows\PrinterSettingsTool.genruntimeconfig.cache
+F:\New Terminal\PrinterSettingsTool\obj\Release\net8.0-windows\ref\PrinterSettingsTool.dll
+F:\New Terminal_2-12\PrinterSettingsTool\bin\Release\net8.0-windows\PrinterSettingsTool.exe
+F:\New Terminal_2-12\PrinterSettingsTool\bin\Release\net8.0-windows\PrinterSettingsTool.deps.json
+F:\New Terminal_2-12\PrinterSettingsTool\bin\Release\net8.0-windows\PrinterSettingsTool.runtimeconfig.json
+F:\New Terminal_2-12\PrinterSettingsTool\bin\Release\net8.0-windows\PrinterSettingsTool.dll
+F:\New Terminal_2-12\PrinterSettingsTool\bin\Release\net8.0-windows\PrinterSettingsTool.pdb
+F:\New Terminal_2-12\PrinterSettingsTool\obj\Release\net8.0-windows\PrinterSettingsTool.PrinterTool.resources
+F:\New Terminal_2-12\PrinterSettingsTool\obj\Release\net8.0-windows\PrinterSettingsTool.csproj.GenerateResource.cache
+F:\New Terminal_2-12\PrinterSettingsTool\obj\Release\net8.0-windows\PrinterSettingsTool.GeneratedMSBuildEditorConfig.editorconfig
+F:\New Terminal_2-12\PrinterSettingsTool\obj\Release\net8.0-windows\PrinterSettingsTool.AssemblyInfoInputs.cache
+F:\New Terminal_2-12\PrinterSettingsTool\obj\Release\net8.0-windows\PrinterSettingsTool.AssemblyInfo.cs
+F:\New Terminal_2-12\PrinterSettingsTool\obj\Release\net8.0-windows\PrinterSettingsTool.csproj.CoreCompileInputs.cache
+F:\New Terminal_2-12\PrinterSettingsTool\obj\Release\net8.0-windows\PrinterSettingsTool.sourcelink.json
+F:\New Terminal_2-12\PrinterSettingsTool\obj\Release\net8.0-windows\PrinterSettingsTool.dll
+F:\New Terminal_2-12\PrinterSettingsTool\obj\Release\net8.0-windows\refint\PrinterSettingsTool.dll
+F:\New Terminal_2-12\PrinterSettingsTool\obj\Release\net8.0-windows\PrinterSettingsTool.pdb
+F:\New Terminal_2-12\PrinterSettingsTool\obj\Release\net8.0-windows\PrinterSettingsTool.genruntimeconfig.cache
+F:\New Terminal_2-12\PrinterSettingsTool\obj\Release\net8.0-windows\ref\PrinterSettingsTool.dll
+F:\TerminalDesktopPackage\PrinterSettingsTool\bin\Release\net8.0-windows\PrinterSettingsTool.exe
+F:\TerminalDesktopPackage\PrinterSettingsTool\bin\Release\net8.0-windows\PrinterSettingsTool.deps.json
+F:\TerminalDesktopPackage\PrinterSettingsTool\bin\Release\net8.0-windows\PrinterSettingsTool.runtimeconfig.json
+F:\TerminalDesktopPackage\PrinterSettingsTool\bin\Release\net8.0-windows\PrinterSettingsTool.dll
+F:\TerminalDesktopPackage\PrinterSettingsTool\bin\Release\net8.0-windows\PrinterSettingsTool.pdb
+F:\TerminalDesktopPackage\PrinterSettingsTool\obj\Release\net8.0-windows\PrinterSettingsTool.PrinterTool.resources
+F:\TerminalDesktopPackage\PrinterSettingsTool\obj\Release\net8.0-windows\PrinterSettingsTool.csproj.GenerateResource.cache
+F:\TerminalDesktopPackage\PrinterSettingsTool\obj\Release\net8.0-windows\PrinterSettingsTool.GeneratedMSBuildEditorConfig.editorconfig
+F:\TerminalDesktopPackage\PrinterSettingsTool\obj\Release\net8.0-windows\PrinterSettingsTool.AssemblyInfoInputs.cache
+F:\TerminalDesktopPackage\PrinterSettingsTool\obj\Release\net8.0-windows\PrinterSettingsTool.AssemblyInfo.cs
+F:\TerminalDesktopPackage\PrinterSettingsTool\obj\Release\net8.0-windows\PrinterSettingsTool.csproj.CoreCompileInputs.cache
+F:\TerminalDesktopPackage\PrinterSettingsTool\obj\Release\net8.0-windows\PrinterSettingsTool.dll
+F:\TerminalDesktopPackage\PrinterSettingsTool\obj\Release\net8.0-windows\refint\PrinterSettingsTool.dll
+F:\TerminalDesktopPackage\PrinterSettingsTool\obj\Release\net8.0-windows\PrinterSettingsTool.pdb
+F:\TerminalDesktopPackage\PrinterSettingsTool\obj\Release\net8.0-windows\PrinterSettingsTool.genruntimeconfig.cache
+F:\TerminalDesktopPackage\PrinterSettingsTool\obj\Release\net8.0-windows\ref\PrinterSettingsTool.dll

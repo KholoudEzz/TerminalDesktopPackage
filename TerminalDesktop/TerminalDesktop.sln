@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TerminalDesktop", "TerminalDesktop.csproj", "{EC132A60-D647-4683-8D48-0D47B7B8041A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrinterSettingsTool", "..\PrinterSettingsTool\PrinterSettingsTool.csproj", "{54EC5DF8-4CF5-454B-BCFC-1021C21AB382}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RashidConfiguration", "..\RashidConfiguration\RashidConfiguration.csproj", "{703E7A59-D276-45E5-8843-5C56FDC4B285}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "RasheedTerminalSP", "..\RasheedTerminalSP\RasheedTerminalSP.vdproj", "{F5394C35-3C45-4567-AEA5-D72A04E013EC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SetPrinterSettings", "..\SetPrinterSettings\SetPrinterSettings.csproj", "{960D1E56-82D3-46C8-AE1F-89A5897B01AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TerminalDesktopSilence", "..\TerminalDesktopSilence\TerminalDesktopSilence.csproj", "{780A4E9C-F00A-4A48-AEAD-904B23F191BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC132A60-D647-4683-8D48-0D47B7B8041A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC132A60-D647-4683-8D48-0D47B7B8041A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC132A60-D647-4683-8D48-0D47B7B8041A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC132A60-D647-4683-8D48-0D47B7B8041A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54EC5DF8-4CF5-454B-BCFC-1021C21AB382}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54EC5DF8-4CF5-454B-BCFC-1021C21AB382}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54EC5DF8-4CF5-454B-BCFC-1021C21AB382}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54EC5DF8-4CF5-454B-BCFC-1021C21AB382}.Release|Any CPU.Build.0 = Release|Any CPU
+		{703E7A59-D276-45E5-8843-5C56FDC4B285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{703E7A59-D276-45E5-8843-5C56FDC4B285}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{703E7A59-D276-45E5-8843-5C56FDC4B285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{703E7A59-D276-45E5-8843-5C56FDC4B285}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5394C35-3C45-4567-AEA5-D72A04E013EC}.Debug|Any CPU.ActiveCfg = Debug
+		{F5394C35-3C45-4567-AEA5-D72A04E013EC}.Release|Any CPU.ActiveCfg = Release
+		{960D1E56-82D3-46C8-AE1F-89A5897B01AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{960D1E56-82D3-46C8-AE1F-89A5897B01AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{960D1E56-82D3-46C8-AE1F-89A5897B01AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{960D1E56-82D3-46C8-AE1F-89A5897B01AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{780A4E9C-F00A-4A48-AEAD-904B23F191BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{780A4E9C-F00A-4A48-AEAD-904B23F191BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{780A4E9C-F00A-4A48-AEAD-904B23F191BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{780A4E9C-F00A-4A48-AEAD-904B23F191BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76E4EC5D-05F4-4224-BBC8-7CDE9A5E7A1E}
+	EndGlobalSection
+EndGlobal

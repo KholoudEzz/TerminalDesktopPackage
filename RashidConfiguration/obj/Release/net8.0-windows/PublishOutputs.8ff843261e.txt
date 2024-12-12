@@ -1,0 +1,5 @@
+F:\New Terminal\SetupFolder\Tools\RashidConfiguration.exe
+F:\New Terminal\SetupFolder\Tools\RashidConfiguration.dll
+F:\New Terminal\SetupFolder\Tools\RashidConfiguration.deps.json
+F:\New Terminal\SetupFolder\Tools\RashidConfiguration.runtimeconfig.json
+F:\New Terminal\SetupFolder\Tools\RashidConfiguration.pdb

@@ -1,0 +1,67 @@
+F:\Repos\RashidConfiguration\bin\Release\net8.0-windows\RashidConfiguration.exe
+F:\Repos\RashidConfiguration\bin\Release\net8.0-windows\RashidConfiguration.deps.json
+F:\Repos\RashidConfiguration\bin\Release\net8.0-windows\RashidConfiguration.runtimeconfig.json
+F:\Repos\RashidConfiguration\bin\Release\net8.0-windows\RashidConfiguration.dll
+F:\Repos\RashidConfiguration\bin\Release\net8.0-windows\RashidConfiguration.pdb
+F:\Repos\RashidConfiguration\obj\Release\net8.0-windows\RashidConfiguration.Configuration.resources
+F:\Repos\RashidConfiguration\obj\Release\net8.0-windows\RashidConfiguration.csproj.GenerateResource.cache
+F:\Repos\RashidConfiguration\obj\Release\net8.0-windows\RashidConfiguration.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repos\RashidConfiguration\obj\Release\net8.0-windows\RashidConfiguration.AssemblyInfoInputs.cache
+F:\Repos\RashidConfiguration\obj\Release\net8.0-windows\RashidConfiguration.AssemblyInfo.cs
+F:\Repos\RashidConfiguration\obj\Release\net8.0-windows\RashidConfiguration.csproj.CoreCompileInputs.cache
+F:\Repos\RashidConfiguration\obj\Release\net8.0-windows\RashidConfiguration.sourcelink.json
+F:\Repos\RashidConfiguration\obj\Release\net8.0-windows\RashidConfiguration.dll
+F:\Repos\RashidConfiguration\obj\Release\net8.0-windows\refint\RashidConfiguration.dll
+F:\Repos\RashidConfiguration\obj\Release\net8.0-windows\RashidConfiguration.pdb
+F:\Repos\RashidConfiguration\obj\Release\net8.0-windows\RashidConfiguration.genruntimeconfig.cache
+F:\Repos\RashidConfiguration\obj\Release\net8.0-windows\ref\RashidConfiguration.dll
+F:\New Terminal\RashidConfiguration\bin\Release\net8.0-windows\RashidConfiguration.exe
+F:\New Terminal\RashidConfiguration\bin\Release\net8.0-windows\RashidConfiguration.deps.json
+F:\New Terminal\RashidConfiguration\bin\Release\net8.0-windows\RashidConfiguration.runtimeconfig.json
+F:\New Terminal\RashidConfiguration\bin\Release\net8.0-windows\RashidConfiguration.dll
+F:\New Terminal\RashidConfiguration\bin\Release\net8.0-windows\RashidConfiguration.pdb
+F:\New Terminal\RashidConfiguration\obj\Release\net8.0-windows\RashidConfiguration.Configuration.resources
+F:\New Terminal\RashidConfiguration\obj\Release\net8.0-windows\RashidConfiguration.csproj.GenerateResource.cache
+F:\New Terminal\RashidConfiguration\obj\Release\net8.0-windows\RashidConfiguration.GeneratedMSBuildEditorConfig.editorconfig
+F:\New Terminal\RashidConfiguration\obj\Release\net8.0-windows\RashidConfiguration.AssemblyInfoInputs.cache
+F:\New Terminal\RashidConfiguration\obj\Release\net8.0-windows\RashidConfiguration.AssemblyInfo.cs
+F:\New Terminal\RashidConfiguration\obj\Release\net8.0-windows\RashidConfiguration.csproj.CoreCompileInputs.cache
+F:\New Terminal\RashidConfiguration\obj\Release\net8.0-windows\RashidConfiguration.sourcelink.json
+F:\New Terminal\RashidConfiguration\obj\Release\net8.0-windows\RashidConfiguration.dll
+F:\New Terminal\RashidConfiguration\obj\Release\net8.0-windows\refint\RashidConfiguration.dll
+F:\New Terminal\RashidConfiguration\obj\Release\net8.0-windows\RashidConfiguration.pdb
+F:\New Terminal\RashidConfiguration\obj\Release\net8.0-windows\RashidConfiguration.genruntimeconfig.cache
+F:\New Terminal\RashidConfiguration\obj\Release\net8.0-windows\ref\RashidConfiguration.dll
+F:\New Terminal_2-12\RashidConfiguration\bin\Release\net8.0-windows\RashidConfiguration.exe
+F:\New Terminal_2-12\RashidConfiguration\bin\Release\net8.0-windows\RashidConfiguration.deps.json
+F:\New Terminal_2-12\RashidConfiguration\bin\Release\net8.0-windows\RashidConfiguration.runtimeconfig.json
+F:\New Terminal_2-12\RashidConfiguration\bin\Release\net8.0-windows\RashidConfiguration.dll
+F:\New Terminal_2-12\RashidConfiguration\bin\Release\net8.0-windows\RashidConfiguration.pdb
+F:\New Terminal_2-12\RashidConfiguration\obj\Release\net8.0-windows\RashidConfiguration.Configuration.resources
+F:\New Terminal_2-12\RashidConfiguration\obj\Release\net8.0-windows\RashidConfiguration.csproj.GenerateResource.cache
+F:\New Terminal_2-12\RashidConfiguration\obj\Release\net8.0-windows\RashidConfiguration.GeneratedMSBuildEditorConfig.editorconfig
+F:\New Terminal_2-12\RashidConfiguration\obj\Release\net8.0-windows\RashidConfiguration.AssemblyInfoInputs.cache
+F:\New Terminal_2-12\RashidConfiguration\obj\Release\net8.0-windows\RashidConfiguration.AssemblyInfo.cs
+F:\New Terminal_2-12\RashidConfiguration\obj\Release\net8.0-windows\RashidConfiguration.csproj.CoreCompileInputs.cache
+F:\New Terminal_2-12\RashidConfiguration\obj\Release\net8.0-windows\RashidConfiguration.sourcelink.json
+F:\New Terminal_2-12\RashidConfiguration\obj\Release\net8.0-windows\RashidConfiguration.dll
+F:\New Terminal_2-12\RashidConfiguration\obj\Release\net8.0-windows\refint\RashidConfiguration.dll
+F:\New Terminal_2-12\RashidConfiguration\obj\Release\net8.0-windows\RashidConfiguration.pdb
+F:\New Terminal_2-12\RashidConfiguration\obj\Release\net8.0-windows\RashidConfiguration.genruntimeconfig.cache
+F:\New Terminal_2-12\RashidConfiguration\obj\Release\net8.0-windows\ref\RashidConfiguration.dll
+F:\TerminalDesktopPackage\RashidConfiguration\bin\Release\net8.0-windows\RashidConfiguration.exe
+F:\TerminalDesktopPackage\RashidConfiguration\bin\Release\net8.0-windows\RashidConfiguration.deps.json
+F:\TerminalDesktopPackage\RashidConfiguration\bin\Release\net8.0-windows\RashidConfiguration.runtimeconfig.json
+F:\TerminalDesktopPackage\RashidConfiguration\bin\Release\net8.0-windows\RashidConfiguration.dll
+F:\TerminalDesktopPackage\RashidConfiguration\bin\Release\net8.0-windows\RashidConfiguration.pdb
+F:\TerminalDesktopPackage\RashidConfiguration\obj\Release\net8.0-windows\RashidConfiguration.Configuration.resources
+F:\TerminalDesktopPackage\RashidConfiguration\obj\Release\net8.0-windows\RashidConfiguration.csproj.GenerateResource.cache
+F:\TerminalDesktopPackage\RashidConfiguration\obj\Release\net8.0-windows\RashidConfiguration.GeneratedMSBuildEditorConfig.editorconfig
+F:\TerminalDesktopPackage\RashidConfiguration\obj\Release\net8.0-windows\RashidConfiguration.AssemblyInfoInputs.cache
+F:\TerminalDesktopPackage\RashidConfiguration\obj\Release\net8.0-windows\RashidConfiguration.AssemblyInfo.cs
+F:\TerminalDesktopPackage\RashidConfiguration\obj\Release\net8.0-windows\RashidConfiguration.csproj.CoreCompileInputs.cache
+F:\TerminalDesktopPackage\RashidConfiguration\obj\Release\net8.0-windows\RashidConfiguration.dll
+F:\TerminalDesktopPackage\RashidConfiguration\obj\Release\net8.0-windows\refint\RashidConfiguration.dll
+F:\TerminalDesktopPackage\RashidConfiguration\obj\Release\net8.0-windows\RashidConfiguration.pdb
+F:\TerminalDesktopPackage\RashidConfiguration\obj\Release\net8.0-windows\RashidConfiguration.genruntimeconfig.cache
+F:\TerminalDesktopPackage\RashidConfiguration\obj\Release\net8.0-windows\ref\RashidConfiguration.dll
