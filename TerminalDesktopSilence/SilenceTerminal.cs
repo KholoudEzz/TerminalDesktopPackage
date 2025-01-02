@@ -714,16 +714,7 @@ namespace TerminalDesktopSilence
                         URasheedTag = new UseRasheedTag();
 
 
-
-                        if (Configuration.RFFailedCounter >= 2 && Configuration.RasheedFR == true)
-                        {
-                            // UpdateRF(false);
-                            GlobalVariables.LogInFile("Try Without FastRead");
-                            TagObj = URasheedTag.CreateTag(compressed, false, this);
-
-                        }
-                        else
-                            TagObj = URasheedTag.CreateTag(compressed, Configuration.RasheedFR, this);
+                        TagObj = URasheedTag.CreateTag(compressed, this);
 
 
 
@@ -781,15 +772,7 @@ namespace TerminalDesktopSilence
                         URasheedTag = new UseRasheedTag();
 
 
-                        if (Configuration.RFFailedCounter >= 2 && Configuration.RasheedFR == true)
-                        {
-                            // UpdateRF(false);
-                            GlobalVariables.LogInFile("Try Without FastRead");
-                            URasheedTag.CreateTag(compressed, false, this);
-
-                        }
-                        else
-                            URasheedTag.CreateTag(compressed, Configuration.RasheedFR, this);
+                         URasheedTag.CreateTag(compressed, this);
 
 
 

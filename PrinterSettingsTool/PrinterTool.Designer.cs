@@ -70,7 +70,7 @@
             // 
             // SaveSelectionBtn
             // 
-            SaveSelectionBtn.Location = new Point(766, 450);
+            SaveSelectionBtn.Location = new Point(766, 423);
             SaveSelectionBtn.Margin = new Padding(3, 4, 3, 4);
             SaveSelectionBtn.Name = "SaveSelectionBtn";
             SaveSelectionBtn.Size = new Size(86, 31);
@@ -90,7 +90,7 @@
             groupBox2.Controls.Add(textBoxPathXML);
             groupBox2.Controls.Add(buttonBrowseXML);
             groupBox2.Controls.Add(labelPath);
-            groupBox2.Location = new Point(39, 503);
+            groupBox2.Location = new Point(39, 482);
             groupBox2.Margin = new Padding(3, 4, 3, 4);
             groupBox2.Name = "groupBox2";
             groupBox2.Padding = new Padding(3, 4, 3, 4);
@@ -200,7 +200,7 @@
             groupBox4.Margin = new Padding(3, 4, 3, 4);
             groupBox4.Name = "groupBox4";
             groupBox4.Padding = new Padding(3, 4, 3, 4);
-            groupBox4.Size = new Size(703, 241);
+            groupBox4.Size = new Size(703, 210);
             groupBox4.TabIndex = 5;
             groupBox4.TabStop = false;
             groupBox4.Text = "Rasheed Printer";
@@ -209,10 +209,11 @@
             // 
             panel2.Controls.Add(radioBFRNo);
             panel2.Controls.Add(radioBFRYes);
-            panel2.Location = new Point(136, 63);
+            panel2.Location = new Point(591, 15);
             panel2.Name = "panel2";
             panel2.Size = new Size(268, 61);
             panel2.TabIndex = 15;
+            panel2.Visible = false;
             // 
             // radioBFRNo
             // 
@@ -276,15 +277,16 @@
             // label5
             // 
             label5.AutoSize = true;
-            label5.Location = new Point(16, 83);
+            label5.Location = new Point(435, 35);
             label5.Name = "label5";
             label5.Size = new Size(88, 20);
             label5.TabIndex = 11;
             label5.Text = "Rasheed FR:";
+            label5.Visible = false;
             // 
             // TBPrinterOutPath
             // 
-            TBPrinterOutPath.Location = new Point(154, 136);
+            TBPrinterOutPath.Location = new Point(154, 103);
             TBPrinterOutPath.Margin = new Padding(3, 4, 3, 4);
             TBPrinterOutPath.Name = "TBPrinterOutPath";
             TBPrinterOutPath.Size = new Size(443, 27);
@@ -292,7 +294,7 @@
             // 
             // PrinterOutPathBtn
             // 
-            PrinterOutPathBtn.Location = new Point(625, 135);
+            PrinterOutPathBtn.Location = new Point(625, 102);
             PrinterOutPathBtn.Margin = new Padding(3, 4, 3, 4);
             PrinterOutPathBtn.Name = "PrinterOutPathBtn";
             PrinterOutPathBtn.Size = new Size(70, 31);
@@ -304,7 +306,7 @@
             // label4
             // 
             label4.AutoSize = true;
-            label4.Location = new Point(19, 140);
+            label4.Location = new Point(19, 107);
             label4.Name = "label4";
             label4.Size = new Size(90, 20);
             label4.TabIndex = 8;
@@ -312,7 +314,7 @@
             // 
             // ExecutablePathBtn
             // 
-            ExecutablePathBtn.Location = new Point(625, 186);
+            ExecutablePathBtn.Location = new Point(625, 153);
             ExecutablePathBtn.Margin = new Padding(3, 4, 3, 4);
             ExecutablePathBtn.Name = "ExecutablePathBtn";
             ExecutablePathBtn.Size = new Size(70, 31);
@@ -323,7 +325,7 @@
             // 
             // TBExecutablePath
             // 
-            TBExecutablePath.Location = new Point(154, 186);
+            TBExecutablePath.Location = new Point(154, 153);
             TBExecutablePath.Margin = new Padding(3, 4, 3, 4);
             TBExecutablePath.Name = "TBExecutablePath";
             TBExecutablePath.Size = new Size(443, 27);
@@ -332,7 +334,7 @@
             // label6
             // 
             label6.AutoSize = true;
-            label6.Location = new Point(20, 192);
+            label6.Location = new Point(20, 159);
             label6.Name = "label6";
             label6.Size = new Size(84, 20);
             label6.TabIndex = 5;
@@ -352,7 +354,7 @@
             groupBox1.Controls.Add(DBBrowse);
             groupBox1.Controls.Add(TBDatabaseFile);
             groupBox1.Controls.Add(label8);
-            groupBox1.Location = new Point(39, 262);
+            groupBox1.Location = new Point(39, 237);
             groupBox1.Margin = new Padding(3, 4, 3, 4);
             groupBox1.Name = "groupBox1";
             groupBox1.Padding = new Padding(3, 4, 3, 4);
@@ -407,7 +409,7 @@
             // groupBox3
             // 
             groupBox3.Controls.Add(ReSetBtn);
-            groupBox3.Location = new Point(39, 382);
+            groupBox3.Location = new Point(39, 357);
             groupBox3.Margin = new Padding(3, 4, 3, 4);
             groupBox3.Name = "groupBox3";
             groupBox3.Padding = new Padding(3, 4, 3, 4);
@@ -420,7 +422,7 @@
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(883, 530);
+            ClientSize = new Size(883, 496);
             Controls.Add(groupBox3);
             Controls.Add(groupBox1);
             Controls.Add(groupBox4);

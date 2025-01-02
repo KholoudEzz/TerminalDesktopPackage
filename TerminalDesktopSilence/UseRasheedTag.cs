@@ -8,10 +8,10 @@ namespace TerminalDesktopSilence
     {
         
         static SilenceTerminal TermDialog;
-        public Tag CreateTag(byte[] JsonData, bool RasheedFR, SilenceTerminal terminal)
+        public Tag CreateTag(byte[] JsonData, SilenceTerminal terminal)
         {
 
-            var tag = new Tag(JsonData, RasheedFR);
+            var tag = new Tag(JsonData);
             tag.Subscribe(this);
            
             TermDialog = terminal;

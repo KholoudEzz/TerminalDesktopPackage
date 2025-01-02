@@ -551,15 +551,7 @@ namespace TerminalDesktopApp
 
                         GlobalVariables.URasheedTag = new UseRasheedTag();
 
-                        if (Configuration.RFFailedCounter >= 2 && Configuration.RasheedFR == true)
-                        {
-                            // UpdateRF(false);
-                            GlobalVariables.LogInFile("Try Without FastRead");
-                            GlobalVariables.URasheedTag.CreateTag(compressed, false);
-                            
-                        }
-                        else
-                            GlobalVariables.URasheedTag.CreateTag(compressed, Configuration.RasheedFR);
+                        GlobalVariables.URasheedTag.CreateTag(compressed);
 
 
 
@@ -614,15 +606,7 @@ namespace TerminalDesktopApp
                         GlobalVariables.URasheedTag = new UseRasheedTag();
 
 
-                        if (Configuration.RFFailedCounter >= 2 && Configuration.RasheedFR == true)
-                        {
-                            // UpdateRF(false);
-                            GlobalVariables.LogInFile("Try Without FastRead");
-                            GlobalVariables.URasheedTag.CreateTag(compressed, false);
-
-                        }
-                        else
-                            GlobalVariables.URasheedTag.CreateTag(compressed, Configuration.RasheedFR);
+                       GlobalVariables.URasheedTag.CreateTag(compressed);
 
 
 

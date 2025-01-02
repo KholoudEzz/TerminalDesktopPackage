@@ -6,10 +6,10 @@ namespace TerminalDesktopApp
 {
     public class UseRasheedTag : ITagStatusUpdate
     {
-        public void CreateTag(byte[] JsonData, bool RasheedFR)
+        public void CreateTag(byte[] JsonData)
         {
 
-            GlobalVariables.TagObj = new Tag(JsonData, RasheedFR);
+            GlobalVariables.TagObj = new Tag(JsonData);
             GlobalVariables.TagObj.Subscribe(this);
 
 

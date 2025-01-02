@@ -1,12 +1,147 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "F:\\TerminalDesktopPackage\\TerminalDesktop\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54EC5DF8-4CF5-454B-BCFC-1021C21AB382}|..\\PrinterSettingsTool\\PrinterSettingsTool.csproj|f:\\terminaldesktoppackage\\printersettingstool\\printertool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EC5DF8-4CF5-454B-BCFC-1021C21AB382}|..\\PrinterSettingsTool\\PrinterSettingsTool.csproj|f:\\terminaldesktoppackage\\printersettingstool\\printertool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EC5DF8-4CF5-454B-BCFC-1021C21AB382}|..\\PrinterSettingsTool\\PrinterSettingsTool.csproj|f:\\terminaldesktoppackage\\printersettingstool\\printersettingstool.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780A4E9C-F00A-4A48-AEAD-904B23F191BA}|..\\TerminalDesktopSilence\\TerminalDesktopSilence.csproj|f:\\terminaldesktoppackage\\terminaldesktopsilence\\silenceterminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780A4E9C-F00A-4A48-AEAD-904B23F191BA}|..\\TerminalDesktopSilence\\TerminalDesktopSilence.csproj|f:\\terminaldesktoppackage\\terminaldesktopsilence\\userasheedtag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960D1E56-82D3-46C8-AE1F-89A5897B01AB}|..\\SetPrinterSettings\\SetPrinterSettings.csproj|f:\\terminaldesktoppackage\\setprintersettings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC132A60-D647-4683-8D48-0D47B7B8041A}|TerminalDesktop.csproj|f:\\terminaldesktoppackage\\terminaldesktop\\userasheedtag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC132A60-D647-4683-8D48-0D47B7B8041A}|TerminalDesktop.csproj|solutionrelative:userasheedtag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{703E7A59-D276-45E5-8843-5C56FDC4B285}|..\\RashidConfiguration\\RashidConfiguration.csproj|f:\\terminaldesktoppackage\\rashidconfiguration\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrinterTool.cs",
+              "DocumentMoniker": "F:\\TerminalDesktopPackage\\PrinterSettingsTool\\PrinterTool.cs",
+              "RelativeDocumentMoniker": "..\\PrinterSettingsTool\\PrinterTool.cs",
+              "ToolTip": "F:\\TerminalDesktopPackage\\PrinterSettingsTool\\PrinterTool.cs",
+              "RelativeToolTip": "..\\PrinterSettingsTool\\PrinterTool.cs",
+              "ViewState": "AgIAAEUBAAAAAAAAAAAkwFwBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T09:25:43.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrinterTool.cs [Design]",
+              "DocumentMoniker": "F:\\TerminalDesktopPackage\\PrinterSettingsTool\\PrinterTool.cs",
+              "RelativeDocumentMoniker": "..\\PrinterSettingsTool\\PrinterTool.cs",
+              "ToolTip": "F:\\TerminalDesktopPackage\\PrinterSettingsTool\\PrinterTool.cs [Design]",
+              "RelativeToolTip": "..\\PrinterSettingsTool\\PrinterTool.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T09:23:27.763Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PrinterSettingsTool",
+              "DocumentMoniker": "F:\\TerminalDesktopPackage\\PrinterSettingsTool\\PrinterSettingsTool.csproj",
+              "RelativeDocumentMoniker": "..\\PrinterSettingsTool\\PrinterSettingsTool.csproj",
+              "ToolTip": "F:\\TerminalDesktopPackage\\PrinterSettingsTool\\PrinterSettingsTool.csproj",
+              "RelativeToolTip": "..\\PrinterSettingsTool\\PrinterSettingsTool.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-02T09:23:23.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SilenceTerminal.cs",
+              "DocumentMoniker": "F:\\TerminalDesktopPackage\\TerminalDesktopSilence\\SilenceTerminal.cs",
+              "RelativeDocumentMoniker": "..\\TerminalDesktopSilence\\SilenceTerminal.cs",
+              "ToolTip": "F:\\TerminalDesktopPackage\\TerminalDesktopSilence\\SilenceTerminal.cs",
+              "RelativeToolTip": "..\\TerminalDesktopSilence\\SilenceTerminal.cs",
+              "ViewState": "AgIAAPgCAAAAAAAAAAAYwAYDAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T09:22:25.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UseRasheedTag.cs",
+              "DocumentMoniker": "F:\\TerminalDesktopPackage\\TerminalDesktopSilence\\UseRasheedTag.cs",
+              "RelativeDocumentMoniker": "..\\TerminalDesktopSilence\\UseRasheedTag.cs",
+              "ToolTip": "F:\\TerminalDesktopPackage\\TerminalDesktopSilence\\UseRasheedTag.cs",
+              "RelativeToolTip": "..\\TerminalDesktopSilence\\UseRasheedTag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T09:22:04.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\TerminalDesktopPackage\\SetPrinterSettings\\Program.cs",
+              "RelativeDocumentMoniker": "..\\SetPrinterSettings\\Program.cs",
+              "ToolTip": "F:\\TerminalDesktopPackage\\SetPrinterSettings\\Program.cs",
+              "RelativeToolTip": "..\\SetPrinterSettings\\Program.cs",
+              "ViewState": "AgIAAPEAAAAAAAAAAAAowBEBAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T00:37:12.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Configuration.cs [Design]",
+              "DocumentMoniker": "F:\\TerminalDesktopPackage\\RashidConfiguration\\Configuration.cs",
+              "RelativeDocumentMoniker": "..\\RashidConfiguration\\Configuration.cs",
+              "ToolTip": "F:\\TerminalDesktopPackage\\RashidConfiguration\\Configuration.cs [Design]",
+              "RelativeToolTip": "..\\RashidConfiguration\\Configuration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T23:37:32.181Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UseRasheedTag.cs",
+              "DocumentMoniker": "F:\\TerminalDesktopPackage\\TerminalDesktop\\UseRasheedTag.cs",
+              "RelativeDocumentMoniker": "UseRasheedTag.cs",
+              "ToolTip": "F:\\TerminalDesktopPackage\\TerminalDesktop\\UseRasheedTag.cs",
+              "RelativeToolTip": "UseRasheedTag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T23:19:19.621Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
