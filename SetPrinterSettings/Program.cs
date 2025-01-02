@@ -3,13 +3,17 @@ using Microsoft.Win32;
 using System.Diagnostics;
 using static System.Net.Mime.MediaTypeNames;
 using System.Security.Principal;
+using System.Runtime.InteropServices;
 
 class Program
 {
 
     public static string configFilePath = "C:\\Program Files\\MisrCompany\\RasheedTerminal\\BillConfig.xml";
     public static string DriverSetupPath ="C:\\Program Files\\MisrCompany\\RasheedTerminal\\Tools\\Driver\\Setup.exe";
+    public static string DNSetupPath = "C:\\Program Files\\MisrCompany\\RasheedTerminal\\Tools\\DotNet\\";
+
     public static string XMLPrinterPath = "C:\\Program Files\\XML Printer\\xmlprn.exe";
+
     public static string DatabaseFileName = "";
 
     
@@ -28,7 +32,7 @@ class Program
 
         var processInfo = new ProcessStartInfo
         {
-            FileName = System.IO.Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "TerminalDesktop.exe"),
+            FileName = System.IO.Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "SetPrinterSettings.exe"),
             Arguments = "",
             CreateNoWindow = true,
             UseShellExecute = true, // Set to true to use the OS shell
@@ -193,7 +197,32 @@ class Program
 
     }
 
+    static void SetupDotnet()
+    {
+        string architecture = RuntimeInformation.ProcessArchitecture.ToString();
+        string DotNetPath;
 
+        switch (architecture)
+        {
+            case "X86":
+                DotNetPath = DNSetupPath + "\\windowsdesktop-runtime-8.0.11-win-x86.exe";
+                break;
+            case "X64":
+                DotNetPath = DNSetupPath + "\\windowsdesktop-runtime-8.0.11-win-x64.exe";
+                break;
+            case "Arm64":
+                DotNetPath = DNSetupPath + "\\windowsdesktop-runtime-8.0.11-win-arm64.exe";
+                break;
+            default:
+                
+                return;
+        }
+
+        string arguments = " /q";
+
+        RunCommandSilently(DotNetPath, arguments);
+
+    }
     static void Main(string[] args)
     {
         Console.WriteLine("Preparing printer settings .... ");
@@ -225,7 +254,7 @@ class Program
 
 
 
-        Thread.Sleep(3000);
+        Thread.Sleep(100);
         ConfigFileRW.LoadFromXml(configFilePath);
 
 
@@ -236,8 +265,14 @@ class Program
         RashidPrinterConfig(ConfigFileRW.PrinterOutPath);
         ExecutablePathUpdate(ConfigFileRW.ExecutablePath);
 
-        Console.WriteLine("Start Driver setup .... ");
-        SetupDriver();
+
+
+        Console.WriteLine("Start DotNet setup .... ");
+        SetupDotnet();
+
+
+        //Console.WriteLine("Start Driver setup .... ");
+       // SetupDriver();
 
 
 

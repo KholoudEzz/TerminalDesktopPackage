@@ -51,12 +51,6 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_155312244DFE40239883E0E33C51742B"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_1B12FE4A082944C5A5AD8F1453C372D5"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -94,6 +88,12 @@
         "Entry"
         {
         "MsmKey" = "8:_23D081AE1AFD4AF2B9C25EBE3CE330A5"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_2400BC7A840240FBAD14F59F27A8ADA2"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -357,6 +357,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_DC2C1B30C24D4ECBBC78C58251BE2096"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_E8C24B56F54349EEB5CF658D407AEAE2"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -382,6 +388,12 @@
         "Entry"
         {
         "MsmKey" = "8:_ED1623FB0620452282008B81862FA706"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_F56F898DDE1F427AA4D3B8D42D978A9C"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -652,26 +664,6 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_155312244DFE40239883E0E33C51742B"
-            {
-            "SourcePath" = "8:F:\\Repos\\TerminalPackageMain\\TerminalPackage\\bin\\x64\\Release\\en-US\\Dotnet\\DOTNET.exe"
-            "TargetName" = "8:DOTNET.exe"
-            "Tag" = "8:"
-            "Folder" = "8:_BD5ADE6F0D4541D3B6140081262B8421"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_1B12FE4A082944C5A5AD8F1453C372D5"
             {
             "SourcePath" = "8:F:\\Repos\\TerminalPackageMain\\TerminalPackage\\bin\\x64\\Release\\en-US\\ACSDriver\\x86\\Dutch.mst"
@@ -778,6 +770,26 @@
             "TargetName" = "8:InstMsiW.exe"
             "Tag" = "8:"
             "Folder" = "8:_28ED3941FAF14C19BE4A2E0752085D6A"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_2400BC7A840240FBAD14F59F27A8ADA2"
+            {
+            "SourcePath" = "8:..\\SetupFolder\\windowsdesktop-runtime-8.0.11-win-arm64.exe"
+            "TargetName" = "8:windowsdesktop-runtime-8.0.11-win-arm64.exe"
+            "Tag" = "8:"
+            "Folder" = "8:_BD5ADE6F0D4541D3B6140081262B8421"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -1592,6 +1604,26 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_DC2C1B30C24D4ECBBC78C58251BE2096"
+            {
+            "SourcePath" = "8:..\\SetupFolder\\windowsdesktop-runtime-8.0.11-win-x86.exe"
+            "TargetName" = "8:windowsdesktop-runtime-8.0.11-win-x86.exe"
+            "Tag" = "8:"
+            "Folder" = "8:_BD5ADE6F0D4541D3B6140081262B8421"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_E8C24B56F54349EEB5CF658D407AEAE2"
             {
             "SourcePath" = "8:F:\\Repos\\TerminalPackageMain\\TerminalPackage\\bin\\x64\\Release\\en-US\\ACSDriver\\x86\\Portuguese (Portugal).mst"
@@ -1658,6 +1690,26 @@
             "TargetName" = "8:Romanian (Romania).mst"
             "Tag" = "8:"
             "Folder" = "8:_350700F5438346CA9976389AD7C3E493"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_F56F898DDE1F427AA4D3B8D42D978A9C"
+            {
+            "SourcePath" = "8:..\\SetupFolder\\windowsdesktop-runtime-8.0.11-win-x64.exe"
+            "TargetName" = "8:windowsdesktop-runtime-8.0.11-win-x64.exe"
+            "Tag" = "8:"
+            "Folder" = "8:_BD5ADE6F0D4541D3B6140081262B8421"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"

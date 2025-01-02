@@ -335,10 +335,10 @@ namespace TerminalDesktopApp
 
                     }
                     // MessageBox.Show("test2");
-                    foreach (Record line in lines)
-                    {
+                 //   foreach (Record line in lines)
+                    //{
                         //	Console.WriteLine("y={0}, page={1},Name:{2},price={3}, qty = {4}", line.Y, line.PageNumber, line.ProductName,line.UnitPrice,line.Quantity);
-                    }
+                  //  }
                     //,Unit="حبة"
                     inv.transactionDetails = lines.Select(p => new Line { itemId = p.Code, quantity = p.Quantity, unitPrice = p.UnitPrice, totalPrice = p.TotalPrice, itemName = p.ProductName, itemUnit = p.Unit }).Where(line => line.itemId != "" && line.quantity > 0 && line.unitPrice > 0 && line.totalPrice > 0).ToList();
                     var itemsNames = lines.Select(p => new { Y = p.Y, PageNumber = p.PageNumber, Code = p.Code, itemName = p.ProductName, unitPrice = p.UnitPrice, totalPrice = p.TotalPrice, itemUnit = p.Unit }).Where(line => line.Y > 0 && line.unitPrice == 0 && line.totalPrice == 0).OrderBy(p => p.PageNumber).ThenBy(p => p.Y).ToList();
